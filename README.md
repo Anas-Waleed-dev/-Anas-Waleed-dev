@@ -58,7 +58,7 @@
 
 ### 📫 Contact Me
 - 📧 Email: anaswaleedmohamed11@gmail.com 
-- 💼 LinkedIn: your-linkedin  
+- 💼 LinkedIn:https://www.linkedin.com/in/anas-walid-005616397?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 - 💻 GitHub:https://github.com/Anas-Waleed-dev
 
 ---
